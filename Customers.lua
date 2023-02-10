@@ -1,4 +1,4 @@
-local NPCProperties = {
+{
     ["Gender"] = {
         [1] = { --Men
 
